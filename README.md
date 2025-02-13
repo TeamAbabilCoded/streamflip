@@ -104,6 +104,14 @@ StreamFlow adalah aplikasi live streaming yang memungkinkan kamu untuk melakukan
 
 Jika teman-teman punya ide atau perbaikan koding aplikasi ini, silakan buat pull request 🤝
 
+## Traktir Kopi:
+
+[Traktir Kopi](https://saweria.co/KarDeBleach)
+
+## Ucapan:
+
+☺️ Thank you udah support [Kar De Bleach](https://youtube.com/KarDeBleach) dalam pengembangan aplikasi ini.
+
 ## Lisensi:
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/TeamAbabilCoded/streamflip/blob/main/LICENSE)
